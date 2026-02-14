@@ -15,6 +15,6 @@ export default defineConfig({
     strictPort: true,
   },
   build: {
-    outDir: 'build',
+    outDir: 'dist',
   },
 });
